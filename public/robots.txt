@@ -1,0 +1,3 @@
+#https://seokit.netlify.app/	
+user-agent:*
+Disallow:/b
